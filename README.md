@@ -1,2 +1,2 @@
 # Object-oriented-programming
-# Now only 1 lab
+1 and 2 labs
