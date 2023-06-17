@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="RuSteam_DI.IShop">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABgCAAAAAAAgAAAAAAAAAAAAQAgCBAAAACAAAAAAA=</HashCode>
+      <FileName>IShop.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RuSteam_DI.IGameData&lt;T&gt;">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGameData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RuSteam_DI.IGame">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IGame.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RuSteam_DI.IAccountData&lt;T&gt;">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQAAAAAAAAAAAAAAAAAAAAQAgAAAAAACAAAAAAA=</HashCode>
+      <FileName>IAccountData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RuSteam_DI.IAccount">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAASAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAACAAI=</HashCode>
+      <FileName>IAccount.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="RuSteam_DI.AccountHandler">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IShop.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RuSteam_DI/1.0.0": {
+        "dependencies": {
+          "RuSteam_Event": "1.0.0"
+        },
+        "runtime": {
+          "RuSteam_DI.dll": {}
+        }
+      },
+      "RuSteam_Event/1.0.0": {
+        "runtime": {
+          "RuSteam_Event.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RuSteam_DI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RuSteam_Event/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

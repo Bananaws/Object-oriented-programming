@@ -1,0 +1,17 @@
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\bin\Debug\net6.0-windows\Test_1.exe
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\bin\Debug\net6.0-windows\Test_1.deps.json
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\bin\Debug\net6.0-windows\Test_1.runtimeconfig.json
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\bin\Debug\net6.0-windows\Test_1.dll
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\bin\Debug\net6.0-windows\Test_1.pdb
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\Test_1.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\Test_1.Form1.resources
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\Test_1.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\Test_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\Test_1.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\Test_1.AssemblyInfo.cs
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\Test_1.dll
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\refint\Test_1.dll
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\Test_1.pdb
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\Test_1.genruntimeconfig.cache
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_1\obj\Debug\net6.0-windows\ref\Test_1.dll

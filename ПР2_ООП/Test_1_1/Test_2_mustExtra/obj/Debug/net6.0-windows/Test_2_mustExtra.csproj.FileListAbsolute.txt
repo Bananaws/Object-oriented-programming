@@ -1,0 +1,17 @@
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\bin\Debug\net6.0-windows\Test_2_mustExtra.exe
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\bin\Debug\net6.0-windows\Test_2_mustExtra.deps.json
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\bin\Debug\net6.0-windows\Test_2_mustExtra.runtimeconfig.json
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\bin\Debug\net6.0-windows\Test_2_mustExtra.dll
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\bin\Debug\net6.0-windows\Test_2_mustExtra.pdb
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\Test_2_mustExtra.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\Test_2_mustExtra.Form1.resources
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\Test_2_mustExtra.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\Test_2_mustExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\Test_2_mustExtra.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\Test_2_mustExtra.AssemblyInfo.cs
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\Test_2_mustExtra.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\Test_2_mustExtra.dll
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\refint\Test_2_mustExtra.dll
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\Test_2_mustExtra.pdb
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\Test_2_mustExtra.genruntimeconfig.cache
+C:\Users\Админ\source\repos\ПР2_ООП\Test_1_1\Test_2_mustExtra\obj\Debug\net6.0-windows\ref\Test_2_mustExtra.dll

@@ -1,0 +1,18 @@
+﻿<Window x:Class="Test_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="497" Width="800">
+    <Grid x:Name="MainGrid" Background="#FFECECEC">
+        <Button x:Name="Button1" Content="Shutdown" HorizontalAlignment="Left" Margin="71,297,0,0" VerticalAlignment="Top" Height="49" Width="97" Background="#FFFFE0E0" Click="Button1_Click"/>
+        <Grid x:Name="Small" RenderTransformOrigin="0.492,0.51" Margin="184,24,33,88">
+            <ScrollViewer HorizontalScrollBarVisibility="Visible" RenderTransformOrigin="0.508,0.508" Margin="0,0,0,-19">
+
+                <TextBlock x:Name="textBlock1" TextWrapping="Wrap" Height="3000" Width="1000" Background="#FFFFEBEB"/>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Window>
