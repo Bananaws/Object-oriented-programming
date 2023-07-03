@@ -1,0 +1,15 @@
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\bin\Debug\net6.0\FitnessClub.exe
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\bin\Debug\net6.0\FitnessClub.deps.json
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\bin\Debug\net6.0\FitnessClub.runtimeconfig.json
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\bin\Debug\net6.0\FitnessClub.dll
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\bin\Debug\net6.0\FitnessClub.pdb
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\obj\Debug\net6.0\FitnessClub.csproj.AssemblyReference.cache
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\obj\Debug\net6.0\FitnessClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\obj\Debug\net6.0\FitnessClub.AssemblyInfoInputs.cache
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\obj\Debug\net6.0\FitnessClub.AssemblyInfo.cs
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\obj\Debug\net6.0\FitnessClub.csproj.CoreCompileInputs.cache
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\obj\Debug\net6.0\FitnessClub.dll
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\obj\Debug\net6.0\refint\FitnessClub.dll
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\obj\Debug\net6.0\FitnessClub.pdb
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\obj\Debug\net6.0\FitnessClub.genruntimeconfig.cache
+C:\Users\Bananaws\Desktop\Учёба\ООП\ПР7_ООП\Pattern_FactoryMethod\FitnessClub\obj\Debug\net6.0\ref\FitnessClub.dll

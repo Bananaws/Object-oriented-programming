@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RuSteam_DIAGRAMS.GameEntity">
+    <Position X="7" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>GameEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RuSteam_DIAGRAMS.GameDataSql">
+    <Position X="7" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameDataSql.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RuSteam_DIAGRAMS.Game">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RuSteam_DIAGRAMS.Configuration">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuSteam_DIAGRAMS.AccountEventArgs">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>AccountEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuSteam_DIAGRAMS.AccountEntity">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAASAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAACAAI=</HashCode>
+      <FileName>AccountEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RuSteam_DIAGRAMS.AccountDataSql">
+    <Position X="10.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgSAAAAAAAAAAAAAAAAAAAAQAgAAAAAACAAAAAAA=</HashCode>
+      <FileName>AccountDataSql.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RuSteam_DIAGRAMS.Account">
+    <Position X="12.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAASAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAACAAI=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RuSteam_DIAGRAMS.Shop">
+    <Position X="5.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABgCAAAAAAAgAAAAAAEQAAAAQAgCBAAAACAAAAAAA=</HashCode>
+      <FileName>Shop.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="accData" />
+      <Field Name="gameData" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="RuSteam_DIAGRAMS.IShop">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABgCAAAAAAAgAAAAAAAAAAAAQAgCBAAAACAAAAAAA=</HashCode>
+      <FileName>IShop.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RuSteam_DIAGRAMS.IGameData&lt;T&gt;">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGameData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RuSteam_DIAGRAMS.IGame">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IGame.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RuSteam_DIAGRAMS.IAccountData&lt;T&gt;">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQAAAAAAAAAAAAAAAAAAAAQAgAAAAAACAAAAAAA=</HashCode>
+      <FileName>IAccountData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RuSteam_DIAGRAMS.IAccount">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAASAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAACAAI=</HashCode>
+      <FileName>IAccount.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="RuSteam_DIAGRAMS.AccountHandler">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IShop.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

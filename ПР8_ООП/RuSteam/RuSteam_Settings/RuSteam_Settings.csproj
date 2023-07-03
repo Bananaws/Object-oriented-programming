@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SimpleInjector" Version="5.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RuSteam_BII\RuSteam_BII.csproj" />
+    <ProjectReference Include="..\RuSteam_Data_Sql\RuSteam_Data_Sql.csproj" />
+    <ProjectReference Include="..\RuSteam_DI\RuSteam_DI.csproj" />
+  </ItemGroup>
+
+</Project>

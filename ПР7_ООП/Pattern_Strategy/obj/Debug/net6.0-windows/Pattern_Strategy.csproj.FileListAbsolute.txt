@@ -1,0 +1,17 @@
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\bin\Debug\net6.0-windows\Pattern_Strategy.exe
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\bin\Debug\net6.0-windows\Pattern_Strategy.deps.json
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\bin\Debug\net6.0-windows\Pattern_Strategy.runtimeconfig.json
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\bin\Debug\net6.0-windows\Pattern_Strategy.dll
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\bin\Debug\net6.0-windows\Pattern_Strategy.pdb
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\Pattern_Strategy.csproj.AssemblyReference.cache
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\Pattern_Strategy.Form1.resources
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\Pattern_Strategy.csproj.GenerateResource.cache
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\Pattern_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\Pattern_Strategy.AssemblyInfoInputs.cache
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\Pattern_Strategy.AssemblyInfo.cs
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\Pattern_Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\Pattern_Strategy.dll
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\refint\Pattern_Strategy.dll
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\Pattern_Strategy.pdb
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\Pattern_Strategy.genruntimeconfig.cache
+C:\Users\Bananaws\Desktop\Учёба\ООП\Pattern_Strategy\obj\Debug\net6.0-windows\ref\Pattern_Strategy.dll
